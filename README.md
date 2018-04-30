@@ -4,7 +4,7 @@
 <img src='Honeypot.png' title='Honeypot' width='' alt='' />
 
 ## Any issues you encountered
-I had a hard time to figure out how to set up MHN Admin VM and deploy honeypot under the instruction of CodePath.
+I spent long time to figure out how to set up MHN Admin VM and deploy honeypot under the instruction of CodePath.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
