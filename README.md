@@ -29,7 +29,7 @@ I spent long time to figure out how to set up MHN Admin VM and deploy honeypot u
 | 4 | 23 | 490 |
 | 5 | 22 | 129 |
 
-<img src='Honeypot-Network.gif' title='Honeypot Network' width='' alt='' />
+<img src='HoneypotNetwork.gif' title='Honeypot Network' width='' alt='' />
 
 ## Any unresolved questions raised by the data collected
 How do I determine which attack is a malware?
